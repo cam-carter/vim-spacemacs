@@ -2,6 +2,8 @@
 
 [Spacemacs](http://spacemacs.org/) key bindings ported to Vim.
 
+Forked from [Jimmy's repo](https://github.com/jimmay5469/vim-spacemacs)
+
 Please open an issue or create a pull request if there is a Spacemacs key binding or plugin specific key binding that you use which is not included.
 
 
@@ -10,13 +12,13 @@ Please open an issue or create a pull request if there is a Spacemacs key bindin
 Using Plug:
 
 ```
-Plug 'jimmay5469/vim-spacemacs'
+Plug 'cam-carter/vim-spacemacs'
 ```
 
 Using Vundle:
 
 ```
-Plugin 'jimmay5469/vim-spacemacs'
+Plugin 'cam-carter/vim-spacemacs'
 ```
 
 ## Leader Key ##
