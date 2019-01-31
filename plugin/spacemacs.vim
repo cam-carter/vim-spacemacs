@@ -71,8 +71,8 @@ let s:pluginKeyBindings['junegunn/fzf.vim'] = {
   \ 'nnoremap': {
     \ '?': ':Maps<CR>',
     \ 'bb': ':Buffers<CR>',
-    \ 'gfh': ':BCommits<CR>',
-    \ 'gs': ':GFiles?<CR>',
+    \ 'gh': ':BCommits<CR>',
+    \ 'gf': ':GFiles?<CR>',
     \ 'pf': ':GFiles<CR>',
     \ 'sp': ':Ag<CR>',
   \ },
@@ -125,6 +125,7 @@ let s:pluginKeyBindings['tpope/vim-fugitive'] = {
     \ 'gd': ':Gdiff<CR>',
     \ 'gs': ':Gstatus<CR>',
     \ 'gc': ':Gcommit %<CR>',
+    \ 'gp': ':Git push<CR>',
   \ },
 \ }
 
