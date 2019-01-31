@@ -124,6 +124,7 @@ let s:pluginKeyBindings['tpope/vim-fugitive'] = {
     \ 'gb': ':Gblame<CR>',
     \ 'gd': ':Gdiff<CR>',
     \ 'gs': ':Gstatus<CR>',
+    \ 'gc': ':Gcommit %<CR>',
   \ },
 \ }
 
